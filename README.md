@@ -1,6 +1,6 @@
-## paperGPT
+## PaperGPT
 Using python and openai’s GPT to summarize papers.  
-Inspired by a blog post, I decided to build upon the provided code, to enhance the quality as well as the performance of the code.  
+Inspired by a blog post, I decided to build upon the provided code, to enhance the code quality, speed as well as the performance of the code.  
 You can also find a clear setup tutorial so that YOU can also start using this code in under 5 minutes!  
 
 ## Setup
@@ -25,5 +25,5 @@ PPO hyperparameters used for the Mujoco 1 million timestep benchmark include a h
 PPO and A2C both performed well on the 49 ATARI games included in OpenAI Gym at the time of publication. PPO outperformed A2C on some games, while A2C outperformed PPO on others.  
 The mean final scores of PPO and A2C on Atari games after 40M game frames (10M time steps) are shown in Table 6.  
 
-# Ref
+## Ref
 https://medium.com/geekculture/a-paper-summarizer-with-python-and-gpt-3-2c718bc3bc88
