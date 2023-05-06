@@ -8,8 +8,9 @@ In order to summarize your paper, you first need to specify some parameters in t
 
 + Paper **arXiv** URL
 + OpenAI organization and API key:  
-After creating an OpenAI account, you can find the Organization ID under "https://platform.openai.com/account/org-settings"
-Concerning the API key, you can create one under "https://platform.openai.com/account/api-keys"
+After creating an OpenAI account, you can find the Organization ID under "https://platform.openai.com/account/org-settings"  
+Concerning the API key, you can create one under "https://platform.openai.com/account/api-keys"  
+
 After filling in the previous pieces of information, you are good to go!
 
 ## Example
