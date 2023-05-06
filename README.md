@@ -1,6 +1,6 @@
 ## PaperGPT
 Using python and openai’s GPT to summarize papers.  
-Inspired by a blog post, I decided to build upon the provided code, to enhance the code quality, speed as well as the performance of the code.  
+Inspired by a blog post, I decided to build upon the provided code, to add features, and improve code quality, speed as well as performance.  
 You can also find a clear setup tutorial so that YOU can also start using this code in under 5 minutes!  
 
 ## Setup
