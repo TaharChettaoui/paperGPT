@@ -47,7 +47,7 @@ def show_paper_summary(paperContent, openai_organization, openai_api_key, file_n
 
 
 if __name__ == "__main__":
-    filename = "ppo.pdf"
+    filename = "paper.pdf"
     paper_url = "https://arxiv.org/pdf/1707.06347.pdf"
     # https://platform.openai.com/account/org-settings
     openai_organization = "TODO"
